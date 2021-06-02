@@ -6,7 +6,7 @@ The Family and Medical Leave Act (FMLA) is designed to help employees balance th
  
 The toughest part of administering FMLA leave is the tracking. FMLA administrators use a variety of tools to help track FMLA including Excel sheets and sophisticated trackers. We’re going to simplify tracking with an FMLA Tracker service.
 
-To learn more about FMLA guidelines, view the [FMLA Employer Guide](https://www.dol.gov/agencies/whd/fmla/employer-guide)
+To learn more about FMLA guidelines, view the [FMLA Employer Guide](https://www.dol.gov/agencies/whd/fmla/employer-guide).
  
 ### The Challenge
  
