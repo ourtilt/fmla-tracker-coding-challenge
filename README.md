@@ -78,6 +78,6 @@ The aspects of your code we will assess include:
 * UX: is the web interface understandable and pleasing to use? Is the API intuitive?
 * Technical choices: do choices of libraries, databases, architecture etc. seem appropriate for the chosen application?
 * **Bonus point (those items are optional):**
-* 	Scalability: will technical choices scale well? If not, is there a discussion of those choices in the README?
-* 	Production-readiness: does the code include monitoring? logging? proper error handling?
+-- Scalability: will technical choices scale well? If not, is there a discussion of those choices in the README?
+-- Production-readiness: does the code include monitoring? logging? proper error handling?
 
