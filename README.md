@@ -1,7 +1,5 @@
 # FMLA Tracker Service
  
-## Coding Challenge 
- 
 ### Overview 
  
 The Family and Medical Leave Act (FMLA) is designed to help employees balance their work and family responsibilities by allowing them to take a reasonable, job-protected, unpaid leave for certain qualifying reasons.
