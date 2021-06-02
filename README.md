@@ -37,11 +37,11 @@ You may choose any one of the following four methods for determining the 12-mont
 The architecture will be split between a back-end and a web front-end, for instance providing a JSON in/out RESTful API. Feel free to use any other technologies provided that the general client/service architecture is respected.
 Choose one of the following technical tracks that best suits your skillset:
  
-Full-stack: include both front-end and back-end.
+**Full-stack:** include both front-end and back-end.
  
-Back-end track: include a minimal front-end (e.g. a static view or API docs). Write, document and test your API as if it will be used by other services.
+**Back-end track:** include a minimal front-end (e.g. a static view or API docs). Write, document and test your API as if it will be used by other services.
  
-Front-end track: include a minimal back-end, or use the data service directly. Focus on making the interface as polished as possible.
+**Front-end track:** include a minimal back-end, or use the data service directly. Focus on making the interface as polished as possible.
  
 ### Backend
  
