@@ -30,7 +30,7 @@ A 12-month period measured forward from the first date an employee takes FMLA le
 A rolling 12-month period measured backward from the date an employee uses FMLA leave (each time an employee takes FMLA leave, the remaining leave is the balance of the 12 weeks not used during the immediately preceding 12 months).
  
 		 	 						
-	> For example, an eligible employee requests two weeks of FMLA leave to begin on November 1st. The employer looks back 12 months (from November 1st back to the previous November 2nd) and sees that the employee had taken four weeks of FMLA leave beginning January 1st,four weeks beginning March 1st,and three weeks beginning June 1st.The employee has taken 11 weeks of FMLA leave in the 12-month period and only has one week of FMLA-protected leave available.After the employee takes the one week in November, the employee can next take FMLA leave beginning January 1st as the days of the previous January leave“roll off” the leave year. 
+`For example, an eligible employee requests two weeks of FMLA leave to begin on November 1st. The employer looks back 12 months (from November 1st back to the previous November 2nd) and sees that the employee had taken four weeks of FMLA leave beginning January 1st,four weeks beginning March 1st,and three weeks beginning June 1st.The employee has taken 11 weeks of FMLA leave in the 12-month period and only has one week of FMLA-protected leave available.After the employee takes the one week in November, the employee can next take FMLA leave beginning January 1st as the days of the previous January leave“roll off” the leave year.`
 	
 ### Technical Spec
  
