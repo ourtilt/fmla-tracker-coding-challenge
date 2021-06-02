@@ -10,7 +10,7 @@ The toughest part of administering FMLA leave is the tracking. FMLA administrato
  
 Create a FMLA Tracker service that calculates and tracks FMLA leave balance. 
  
-Given a company, employee, leave start date, leave end date, and a list of leave events, FMLA Tracker will calculate how much leave the employee has and return the balance. Note that this FMLA Tracker will keep track of past leave events to inform how many hours are left today.
+Given a employee, leave start date, leave end date, and a list of leave events, FMLA Tracker will calculate how much leave the employee has and return the balance. Note that this FMLA Tracker will keep track of past leave events to inform how many hours are left today.
  
 ### The Rules
  
