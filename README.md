@@ -41,7 +41,7 @@ Choose one of the following technical tracks that best suits your skillset:
  
 **Back-end track:** include a minimal front-end (e.g. a static view or API docs). Write, document and test your API as if it will be used by other services.
  
-**Front-end track:** include a minimal back-end, or use the data service directly. Focus on making the interface as polished as possible.
+**Front-end track:** include a minimal back-end, or create fake data that you can pull from easily. Focus on making the interface as polished as possible.
  
 ### Backend
  
