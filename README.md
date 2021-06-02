@@ -8,7 +8,7 @@ The toughest part of administering FMLA leave is the tracking. FMLA administrato
  
 ### The Challenge
  
-Create a FMLA Tracker service that calculates FMLA leave. 
+Create a FMLA Tracker service that calculates FMLA leave balance. 
  
 Given a company, employee, leave start date, leave end date, and a list of leave events, FMLA Tracker will calculate how much leave the employee has and return the balance. Note that this FMLA Tracker will keep track of past leave events to inform how many hours are left today.
  
@@ -20,7 +20,7 @@ An employee can take FMLA leave in a defined 12-month period or “leave year.�
  
 When an employee’s need for FMLA leave extends beyond the 12-month leave year, any additional time the employee requests counts against his or hers entitlement for the next leave year.
  
-You may choose any one of the following four methods for determining the 12-month period during which eligible employees may take up to 12 workweeks of leave:
+Choose one of the four methods for determining the 12-month period during which eligible employees may take up to 12 workweeks of leave:
  
 * The calendar year is January 1st through December 31st,
 * Any fixed 12 months, such as fiscal year or a leave year beginning on the first day of an employee’s employment,
